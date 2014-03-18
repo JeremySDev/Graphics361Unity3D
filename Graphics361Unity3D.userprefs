@@ -1,8 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\CameraViewChange.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets (Mobile)\Scripts\CameraViewChange.js">
     <Files>
-      <File FileName="Assets\CameraViewChange.js" Line="8" Column="24" />
+      <File FileName="Assets\Standard Assets (Mobile)\Scripts\CameraViewChange.js" Line="2" Column="19" />
       <File FileName="Assets\ButtonScript.js" Line="3" Column="53" />
     </Files>
   </MonoDevelop.Ide.Workbench>

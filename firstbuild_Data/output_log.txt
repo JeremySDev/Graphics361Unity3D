@@ -7,12 +7,2542 @@ Direct3D:
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <I> Initializing (RawInput).
 <RI> Input initialized.
-Non platform assembly: data-02D5C7D0 (this message is harmless)
-Non platform assembly: data-02DC6E10 (this message is harmless)
-Non platform assembly: data-02DCE9F0 (this message is harmless)
-Non platform assembly: data-07E42F60 (this message is harmless)
+Non platform assembly: data-02D7CDA0 (this message is harmless)
+Non platform assembly: data-02DE74F8 (this message is harmless)
+Non platform assembly: data-02DEF0D8 (this message is harmless)
+Non platform assembly: data-07E42EE8 (this message is harmless)
 
-Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 237.
-System memory in use: 64.7 MB.
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 258.
+System memory in use: 69.1 MB.
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
 Platform assembly: C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\firstbuild_Data\Managed\Boo.Lang.dll (this message is harmless)
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraRelativeControl.Update () [0x00000] in C:\Users\jstilwell\Dropbox\361_Graphics\Project2_Unity3D\Graphics361Unity3D\Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js:68 
+ 
+(Filename: C Line: 0)
+
